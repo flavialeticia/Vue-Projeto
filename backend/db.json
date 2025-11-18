@@ -1,0 +1,18 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "titulo": "Exemplo A",
+      "autor": "Ana",
+      "status": "ativo"
+    }
+  ],
+  "subresources": [
+    {
+      "id": 1,
+      "resourceId": 1,
+      "conteudo": "Comentário inicial",
+      "autor": "Bruno"
+    }
+  ]
+}
